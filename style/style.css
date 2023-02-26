@@ -263,10 +263,9 @@ body {
   padding: 20px;
   margin: 10px;
   border-radius: 25px;
+  border: 2px solid rgb(4, 4, 172);
 }
-.box:hover {
-  transition: all 2s ease-in-out;
-}
+
 .box img {
   width: 100%;
   height: auto;
